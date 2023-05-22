@@ -1,0 +1,8 @@
+.info-link{
+    text-decoration: none;
+    color: black;
+}
+.info-link:hover{
+    color: red;
+    transition: 0.5s;
+}
